@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </radialGradient>
+  </defs>
+  <rect width="100" height="100" rx="22" fill="url(#bg)"/>
+  <!-- Patrick nucleus -->
+  <circle cx="50" cy="50" r="8" fill="white" opacity="0.95"/>
+  <!-- Electron orbits -->
+  <ellipse cx="50" cy="50" rx="35" ry="14" fill="none" stroke="white" stroke-width="2.5" opacity="0.8"/>
+  <ellipse cx="50" cy="50" rx="35" ry="14" fill="none" stroke="white" stroke-width="2.5" opacity="0.8" transform="rotate(60 50 50)"/>
+  <ellipse cx="50" cy="50" rx="35" ry="14" fill="none" stroke="white" stroke-width="2.5" opacity="0.8" transform="rotate(120 50 50)"/>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1782577278308,
+      "tag": "0000_daffy_wither",
+      "breakpoints": true
+    }
+  ]
+}
